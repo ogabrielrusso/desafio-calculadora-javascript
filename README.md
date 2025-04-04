@@ -1,6 +1,8 @@
 # 🧮 desafio-calculadora-javascript
 
- # DIO - Desafio Calculadora de partidas Rankeadas
+ ## DIO - Formação Lógica de Programação
+ 
+### Desafio Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
 
