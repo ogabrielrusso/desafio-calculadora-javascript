@@ -1,6 +1,6 @@
-# desafio-calculadora-javascript
+# 🧮 desafio-calculadora-javascript
 
- # 🧮 DIO - Desafio Calculadora de partidas Rankeadas
+ # DIO - Desafio Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
 
